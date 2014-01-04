@@ -1,0 +1,2 @@
+### Tuple Increment
+Given an n-tuple of single digit numbers such as `(1,3,4,2)`, which represents a larger n-digit number, return that n-tuple "incremented" by one. For example: `(1,3,4,2) -> (1,3,4,3)`, `(9,9,9) -> (1, 0, 0, 0)`.
